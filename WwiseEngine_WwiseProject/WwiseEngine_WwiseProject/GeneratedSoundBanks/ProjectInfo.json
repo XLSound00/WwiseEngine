@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "WwiseEngine_WwiseProject",
+   "GUID": "{AD4B5ED8-1DE9-4C1F-974C-CD298894DC46}",
+   "Generator": "2022.1.0.7985"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{BBA05674-5FAC-4F06-BB27-D09A14E21630}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{EA0A25AC-33B5-4FC4-A67D-9DD39AD54E55}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{8FEF6437-80C2-41C9-9EE5-3DCEC51655A9}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{28AD3CB4-0E13-719F-9800-A9866C0363EA}"
+ }
+}

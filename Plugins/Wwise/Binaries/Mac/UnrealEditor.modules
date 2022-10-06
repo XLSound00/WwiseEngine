@@ -1,0 +1,15 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"AkAudio": "UnrealEditor-AkAudio.dylib",
+		"AkAudioMixer": "UnrealEditor-AkAudioMixer.dylib",
+		"AudiokineticTools": "UnrealEditor-AudiokineticTools.dylib",
+		"WwiseFileHandler": "UnrealEditor-WwiseFileHandler.dylib",
+		"WwiseProjectDatabase": "UnrealEditor-WwiseProjectDatabase.dylib",
+		"WwiseResourceCooker": "UnrealEditor-WwiseResourceCooker.dylib",
+		"WwiseResourceLoader": "UnrealEditor-WwiseResourceLoader.dylib",
+		"WwiseSimpleExternalSource": "UnrealEditor-WwiseSimpleExternalSource.dylib",
+		"WwiseSoundEngine": "UnrealEditor-WwiseSoundEngine.dylib"
+	}
+}

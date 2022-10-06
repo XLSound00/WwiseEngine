@@ -1,0 +1,84 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "144",
+  "SoundBanks": [
+   {
+    "Id": "3157003241",
+    "Type": "Event",
+    "GUID": "{EFC5CE8B-3A9E-4E6C-96EE-55CA5A292C12}",
+    "Language": "SFX",
+    "Hash": "{5F60F836-C669-DA95-85C5-EAD18AA33DF9}",
+    "ObjectPath": "test",
+    "ShortName": "test",
+    "Path": "Event/test.bnk",
+    "Media": [
+     {
+      "Id": "57413078",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_walk_02.wav",
+      "Path": "Media/57413078.wem",
+      "CachePath": "SFX/duck_walk_02_10C4C929.wem"
+     },
+     {
+      "Id": "185005386",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_walk_01.wav",
+      "Path": "Media/185005386.wem",
+      "CachePath": "SFX/duck_walk_01_10C4C929.wem"
+     },
+     {
+      "Id": "500341916",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_walk_03.wav",
+      "Path": "Media/500341916.wem",
+      "CachePath": "SFX/duck_walk_03_10C4C929.wem"
+     },
+     {
+      "Id": "508653909",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_walk_00.wav",
+      "Path": "Media/508653909.wem",
+      "CachePath": "SFX/duck_walk_00_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3157003241",
+      "Name": "test",
+      "ObjectPath": "\\Events\\Default Work Unit\\test",
+      "GUID": "{EFC5CE8B-3A9E-4E6C-96EE-55CA5A292C12}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.23399603",
+      "DurationMax": "0.4873877",
+      "MediaRefs": [
+       {
+        "Id": "57413078"
+       },
+       {
+        "Id": "185005386"
+       },
+       {
+        "Id": "500341916"
+       },
+       {
+        "Id": "508653909"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F5060519-CD14-25FC-EC75-197950840DC9}"
+ }
+}
