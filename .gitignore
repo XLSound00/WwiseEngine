@@ -76,4 +76,3 @@ DerivedDataCache/*
 *.prof
 WwiseEngine_WwiseProject/WwiseEngine_WwiseProject/.cache
 *.validationcache
-*.wsettings
