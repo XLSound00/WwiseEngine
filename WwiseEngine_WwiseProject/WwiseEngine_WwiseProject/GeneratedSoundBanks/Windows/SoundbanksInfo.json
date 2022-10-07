@@ -14,6 +14,79 @@
   "DialogueEvents": [],
   "SoundBanks": [
    {
+    "Id": "576110585",
+    "Type": "Event",
+    "GUID": "{1F7C9966-974F-4B50-9D2B-25789544B43B}",
+    "Language": "SFX",
+    "Hash": "{B7A797F4-0783-F178-16A3-B232584B5243}",
+    "ObjectPath": "test2",
+    "ShortName": "test2",
+    "Path": "Event/test2.bnk",
+    "Media": [
+     {
+      "Id": "202757766",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_run_03.wav",
+      "Path": "Media/202757766.wem",
+      "CachePath": "SFX/duck_run_03_10C4C929.wem"
+     },
+     {
+      "Id": "298720554",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_run_02.wav",
+      "Path": "Media/298720554.wem",
+      "CachePath": "SFX/duck_run_02_10C4C929.wem"
+     },
+     {
+      "Id": "341092945",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_run_00.wav",
+      "Path": "Media/341092945.wem",
+      "CachePath": "SFX/duck_run_00_10C4C929.wem"
+     },
+     {
+      "Id": "797555384",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_run_01.wav",
+      "Path": "Media/797555384.wem",
+      "CachePath": "SFX/duck_run_01_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "576110585",
+      "Name": "test2",
+      "ObjectPath": "\\Events\\Default Work Unit\\test2",
+      "GUID": "{1F7C9966-974F-4B50-9D2B-25789544B43B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.24945578",
+      "DurationMax": "0.3071882",
+      "MediaRefs": [
+       {
+        "Id": "202757766"
+       },
+       {
+        "Id": "298720554"
+       },
+       {
+        "Id": "341092945"
+       },
+       {
+        "Id": "797555384"
+       }
+      ]
+     }
+    ]
+   },
+   {
     "Id": "1355168291",
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
@@ -125,6 +198,6 @@
     ]
    }
   ],
-  "FileHash": "{B685EED8-A3DA-82D3-B1DC-3D1188571470}"
+  "FileHash": "{E5130C90-DF26-324B-C446-9A360F787266}"
  }
 }
