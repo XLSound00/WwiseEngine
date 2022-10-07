@@ -1,0 +1,84 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "144",
+  "SoundBanks": [
+   {
+    "Id": "576110584",
+    "Type": "Event",
+    "GUID": "{8517667C-9F77-44F0-A968-9010910C35D6}",
+    "Language": "SFX",
+    "Hash": "{4AEDDA7E-5DC7-0952-4B11-48C139AD9598}",
+    "ObjectPath": "test3",
+    "ShortName": "test3",
+    "Path": "Event/test3.bnk",
+    "Media": [
+     {
+      "Id": "171185810",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_hit_03.wav",
+      "Path": "Media/171185810.wem",
+      "CachePath": "SFX/duck_hit_03_10C4C929.wem"
+     },
+     {
+      "Id": "281008097",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_hit_01.wav",
+      "Path": "Media/281008097.wem",
+      "CachePath": "SFX/duck_hit_01_10C4C929.wem"
+     },
+     {
+      "Id": "404811361",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_hit_02.wav",
+      "Path": "Media/404811361.wem",
+      "CachePath": "SFX/duck_hit_02_10C4C929.wem"
+     },
+     {
+      "Id": "973124520",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "duck_hit_00.wav",
+      "Path": "Media/973124520.wem",
+      "CachePath": "SFX/duck_hit_00_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "576110584",
+      "Name": "test3",
+      "ObjectPath": "\\Events\\Default Work Unit\\test3",
+      "GUID": "{8517667C-9F77-44F0-A968-9010910C35D6}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.5057823",
+      "DurationMax": "0.75058955",
+      "MediaRefs": [
+       {
+        "Id": "171185810"
+       },
+       {
+        "Id": "281008097"
+       },
+       {
+        "Id": "404811361"
+       },
+       {
+        "Id": "973124520"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{63F956D9-0E82-83BE-51BC-6C8912EC18FD}"
+ }
+}
